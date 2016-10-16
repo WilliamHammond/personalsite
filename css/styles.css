@@ -1,5 +1,9 @@
-body {
+html, body {
     background-color:#D3D3D3;
+}
+
+.div {
+    margin-top:10px;
 }
 
 .left {
@@ -19,11 +23,13 @@ body {
     font-family:"Comic Sans MS"
 }
 
-.div {
-    margin-top:10px;
+.wrapper { 
+    width:950px;
+    margin:0 auto;
 }
 
-.wrapper { 
+.resume {
+    height:1200px;
     width:950px;
     margin:0 auto;
 }
