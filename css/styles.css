@@ -1,12 +1,29 @@
+body {
+    background-color:#D3D3D3;
+}
+
 .left {
     color:black;
+    font-size:12px;
     float:left;
     height:1200px;
     width:250px;
     padding:50px;
+    font-family:"Comic Sans MS"
 }
 
-.center {
+.right {
+    float:right;
     height:1200px;
-    width:600:px;
+    width:600px;
+    font-family:"Comic Sans MS"
+}
+
+.div {
+    margin-top:10px;
+}
+
+.wrapper { 
+    width:950px;
+    margin:0 auto;
 }
