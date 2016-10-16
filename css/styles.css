@@ -23,6 +23,14 @@ html, body {
     font-family:"Comic Sans MS"
 }
 
+.current-work {
+    margin-left:50px
+}
+
+.previous-work {
+    margin-left:50px
+}
+
 .wrapper { 
     width:950px;
     margin:0 auto;
